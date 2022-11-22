@@ -1,0 +1,10 @@
+-ID:\c plus plus\Source-codes-Section-20-The-Standard-Template-Library-(STL)_\Section20\List
+-Ic:\MinGW\include\c++\9.2.0
+-Ic:\MinGW\include\c++\9.2.0\x86_64-w64-mingw32
+-Ic:\MinGW\include\c++\9.2.0\backward
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed
+-Ic:\MinGW\x86_64-w64-mingw32\include
+-std=c++14
+-target
+x86_64-w64-mingw32

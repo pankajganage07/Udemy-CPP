@@ -1,0 +1,2 @@
+_GLIBCXX_CERRNO	c:\MinGW\include\c++\9.2.0\cerrno	/^#define _GLIBCXX_CERRNO 1$/;"	macro	line:45
+errno	c:\MinGW\include\c++\9.2.0\cerrno	/^#define errno errno$/;"	macro	line:49

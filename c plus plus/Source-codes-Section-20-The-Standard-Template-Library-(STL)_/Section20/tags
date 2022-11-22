@@ -1,0 +1,2 @@
+MINGW_DDK_H	c:\MinGW\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h	/^#define MINGW_DDK_H$/;"	macro	line:2
+MINGW_HAS_DDK_H	c:\MinGW\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h	/^#define MINGW_HAS_DDK_H 1$/;"	macro	line:4

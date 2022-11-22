@@ -1,0 +1,16 @@
+_GLIBCXX_BITS_STD_ABS_H	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^#define _GLIBCXX_BITS_STD_ABS_H$/;"	macro	line:31
+_GLIBCXX_INCLUDE_NEXT_C_HEADERS	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^#define _GLIBCXX_INCLUDE_NEXT_C_HEADERS$/;"	macro	line:37
+_GLIBCXX_INCLUDE_NEXT_C_HEADERS	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^#undef _GLIBCXX_INCLUDE_NEXT_C_HEADERS$/;"	macro	line:42
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^#undef abs$/;"	macro	line:44
+std	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^namespace std _GLIBCXX_VISIBILITY(default)$/;"	namespace	line:48
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  using ::abs;$/;"	class	line:52	namespace:std	typeref:class:::abs
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(long __i) { return __builtin_labs(__i); }$/;"	function	line:56	namespace:std	signature:(long __i)	returns:inline long 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(long long __x) { return __builtin_llabs (__x); }$/;"	function	line:61	namespace:std	signature:(long long __x)	returns:inline long long 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(double __x)$/;"	function	line:71	namespace:std	signature:(double __x)	returns:inline double 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(float __x)$/;"	function	line:75	namespace:std	signature:(float __x)	returns:inline float 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(long double __x)$/;"	function	line:79	namespace:std	signature:(long double __x)	returns:inline long double 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(__GLIBCXX_TYPE_INT_N_0 __x) { return __x >= 0 ? __x : -__x; }$/;"	function	line:85	namespace:std	signature:(__GLIBCXX_TYPE_INT_N_0 __x)	returns:inline __GLIBCXX_TYPE_INT_N_0 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(__GLIBCXX_TYPE_INT_N_1 __x) { return __x >= 0 ? __x : -__x; }$/;"	function	line:89	namespace:std	signature:(__GLIBCXX_TYPE_INT_N_1 __x)	returns:inline __GLIBCXX_TYPE_INT_N_1 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(__GLIBCXX_TYPE_INT_N_2 __x) { return __x >= 0 ? __x : -__x; }$/;"	function	line:93	namespace:std	signature:(__GLIBCXX_TYPE_INT_N_2 __x)	returns:inline __GLIBCXX_TYPE_INT_N_2 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(__GLIBCXX_TYPE_INT_N_3 __x) { return __x >= 0 ? __x : -__x; }$/;"	function	line:97	namespace:std	signature:(__GLIBCXX_TYPE_INT_N_3 __x)	returns:inline __GLIBCXX_TYPE_INT_N_3 
+abs	c:\MinGW\include\c++\9.2.0\bits\std_abs.h	/^  abs(__float128 __x)$/;"	function	line:103	namespace:std	signature:(__float128 __x)	returns:inline __float128 

@@ -1,0 +1,33 @@
+_GLIBCXX_STDLIB_H	c:\MinGW\include\c++\9.2.0\stdlib.h	/^#define _GLIBCXX_STDLIB_H 1$/;"	macro	line:34
+abort	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::abort;$/;"	class	line:38	typeref:class:std::abort
+atexit	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::atexit;$/;"	class	line:39	typeref:class:std::atexit
+exit	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::exit;$/;"	class	line:40	typeref:class:std::exit
+at_quick_exit	c:\MinGW\include\c++\9.2.0\stdlib.h	/^  using std::at_quick_exit;$/;"	class	line:43	typeref:class:std::at_quick_exit
+quick_exit	c:\MinGW\include\c++\9.2.0\stdlib.h	/^  using std::quick_exit;$/;"	class	line:46	typeref:class:std::quick_exit
+div_t	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::div_t;$/;"	class	line:51	typeref:class:std::div_t
+ldiv_t	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::ldiv_t;$/;"	class	line:52	typeref:class:std::ldiv_t
+abs	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::abs;$/;"	class	line:54	typeref:class:std::abs
+atof	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::atof;$/;"	class	line:55	typeref:class:std::atof
+atoi	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::atoi;$/;"	class	line:56	typeref:class:std::atoi
+atol	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::atol;$/;"	class	line:57	typeref:class:std::atol
+bsearch	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::bsearch;$/;"	class	line:58	typeref:class:std::bsearch
+calloc	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::calloc;$/;"	class	line:59	typeref:class:std::calloc
+div	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::div;$/;"	class	line:60	typeref:class:std::div
+free	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::free;$/;"	class	line:61	typeref:class:std::free
+getenv	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::getenv;$/;"	class	line:62	typeref:class:std::getenv
+labs	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::labs;$/;"	class	line:63	typeref:class:std::labs
+ldiv	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::ldiv;$/;"	class	line:64	typeref:class:std::ldiv
+malloc	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::malloc;$/;"	class	line:65	typeref:class:std::malloc
+mblen	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::mblen;$/;"	class	line:67	typeref:class:std::mblen
+mbstowcs	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::mbstowcs;$/;"	class	line:68	typeref:class:std::mbstowcs
+mbtowc	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::mbtowc;$/;"	class	line:69	typeref:class:std::mbtowc
+qsort	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::qsort;$/;"	class	line:71	typeref:class:std::qsort
+rand	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::rand;$/;"	class	line:72	typeref:class:std::rand
+realloc	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::realloc;$/;"	class	line:73	typeref:class:std::realloc
+srand	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::srand;$/;"	class	line:74	typeref:class:std::srand
+strtod	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::strtod;$/;"	class	line:75	typeref:class:std::strtod
+strtol	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::strtol;$/;"	class	line:76	typeref:class:std::strtol
+strtoul	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::strtoul;$/;"	class	line:77	typeref:class:std::strtoul
+system	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::system;$/;"	class	line:78	typeref:class:std::system
+wcstombs	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::wcstombs;$/;"	class	line:80	typeref:class:std::wcstombs
+wctomb	c:\MinGW\include\c++\9.2.0\stdlib.h	/^using std::wctomb;$/;"	class	line:81	typeref:class:std::wctomb
